@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 The 15 Audit Subagent Tracks
+## 🎯 The 15 Security Audit Tracks
 
 ### Section 1: Active Mainnet Vulnerability Tracks (Immediate Priority)
 
