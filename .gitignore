@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sandbox runtime data and logs
+round_1/sandbox/data/*
+!round_1/sandbox/data/.gitkeep
+round_1/sandbox/logs/*
+!round_1/sandbox/logs/.gitkeep
+round_1/sandbox/*.pid
+round_1/sandbox/*.log
+round_1/sandbox/*.dat*
+
+# Editor and OS artifacts
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
